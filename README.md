@@ -2,6 +2,8 @@
 
 Приложение для объединения текста из двух полей ввода.
 
+![Скриншот приложения](screenshot.png)
+
 ## Description (English)
 
 A simple desktop application for concatenating text from two input fields. The app features a clean white interface with highlighted input fields. If either field is empty, a warning notification appears. The merged result is displayed below the button.
